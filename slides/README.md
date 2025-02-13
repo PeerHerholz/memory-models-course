@@ -24,7 +24,7 @@
   - [Baldassano et al. (2017)](https://www.dropbox.com/scl/fi/wgn96xni9fevoo6h1yngn/BaldEtal17.pdf?rlkey=wg9qugm1szfw50xao6k9047j6&dl=1)
   - [Honey et al. (2012)](https://www.dropbox.com/scl/fi/l3vzzc56jjhq9tc4cheev/HoneEtal12.pdf?rlkey=56wf835omj2i6gkdh0b8n38cx&dl=1)
   - [Manning et al. (2014)](https://www.dropbox.com/scl/fi/a1zltxk43dn8qmm7puaql/MannEtal14d.pdf?rlkey=wg2ikym1svvl68hbuw4f5cpax&dl=1)
-- **Assignemnt 3** [Build the Context Maintenance and Retrieval Model](https://github.com/ContextLab/memory-models-course/tree/main/assignments/Assignment%203%3A%20Context%20Maintenance%20and%20Retrieval%20Model)
+- **Assignemnt 3**: [Build the Context Maintenance and Retrieval Model](https://github.com/ContextLab/memory-models-course/tree/main/assignments/Assignment%203%3A%20Context%20Maintenance%20and%20Retrieval%20Model)
 
 # Week 6--7: Laplace Transforms
 - Discussion: is TCM *really* multi-timescale?
@@ -48,7 +48,7 @@
   - [Hochreiter and Schmidhuber (1997)](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf)
   - [Radford et al. (2019)](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf)
     - Tutorial video: [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-- **Assignment 6**: [Final Project](https://github.com/ContextLab/memory-models-course/tree/main/assignments/Final%20Project)
+- **Assignment 5**: [Final Project](https://github.com/ContextLab/memory-models-course/tree/main/assignments/Final%20Project)
 
 # Week 10: Final project presentations
 - Discussion: ad-hoc discussions and demos of final projects

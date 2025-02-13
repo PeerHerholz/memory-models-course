@@ -1,6 +1,6 @@
 # Models of Memory
 
-Welcome!  This repository contains course materials for the Dartmouth graduate course on computational models of learning and memory.  The syllabus may be found [here](https://github.com/ContextLab/memory-models-course/blob/main/admin/syllabus.pdf).  Feel free to follow along with the course materials (whether you are officially enrolled in the course or just visiting!), submit comments and suggestions, etc.  An outline of the course materials, including links to lecture and discussion videos and assignments may be found [here](https://github.com/ContextLab/memory-models-course/blob/main/slides/README.md).
+Welcome!  This repository contains course materials for the Dartmouth graduate course on computational models of learning and memory.  The syllabus may be found [here](https://github.com/ContextLab/memory-models-course/blob/main/admin/syllabus.pdf).  Feel free to follow along with the course materials (whether you are officially enrolled in the course or just visiting!), submit comments and suggestions, etc.  An outline of the course materials, including links to lecture and discussion topics and assignments may be found [here](https://github.com/ContextLab/memory-models-course/blob/main/slides/README.md).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ContextLab/memory-models-course/main/admin/readme_robot.png" alt="robot" width="400"/>
