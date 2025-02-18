@@ -10,12 +10,18 @@
 
 
 # Weeks 2--3: Free recall, Short Term and Long Term Memory
-  - Discussion: free recall and memory search  
-  - Reading: [Atkinson and Shiffrin (1968)](https://www.dropbox.com/scl/fi/rpllozjcv704okckjdy5k/AtkiShif68.pdf?rlkey=i0azhj9mqxws7bxocbl65j88d&dl=1)
+  - Discussions:
+    - free recall and memory search
+    - naturalistic memory tasks
+  - Readings:
+    - [Atkinson and Shiffrin (1968)](https://www.dropbox.com/scl/fi/rpllozjcv704okckjdy5k/AtkiShif68.pdf?rlkey=i0azhj9mqxws7bxocbl65j88d&dl=1)
+    - [Chen et al. (2016)](https://www.dropbox.com/scl/fi/wg6fledn7g88ig5mk3kob/ChenEtal16.pdf?rlkey=9jqu7y2apqv2hrj8qepn4alwa&dl=1)
+    - [Heusser et al. (2021)](https://www.dropbox.com/scl/fi/w7z2yvdfzmhowh5hvg53e/HeusEtal21.pdf?rlkey=omad9klqeiu2kc71w7guc5xxq&dl=1)
   - Data science primer:
     - Where to find behavioral datasets
     - Web scraping
-    - Data manipulation with Pandas
+    - Data manipulation with [Pandas](https://pandas.pydata.org/)
+    - Text analyses with [Scikit-learn](https://scikit-learn.org), [NLTK](https://www.nltk.org/), and [HuggingFace Transformers](https://huggingface.co/docs/transformers/en/index)
   - **Assignment 2**: [Build the Search of Associative Memory Model](https://github.com/ContextLab/memory-models-course/tree/main/assignments/Assignment%202%3A%20Search%20of%20Associative%20Memory%20Model)
 
 
@@ -31,6 +37,7 @@
   - [DuBrow and Davachi (2016)](https://www.dropbox.com/scl/fi/86gkrz0a9k57556tz4d2z/DuBrDava16.pdf?rlkey=v6hxkbzz80m48pz4a2425q6bn&dl=1)
   - [Zacks and Tversky (2001)](https://www.dropbox.com/scl/fi/28104fmu9kzk55znyxntd/ZackTver01.pdf?rlkey=2ytdz0e9agny4hmllcw7hvi8g&dl=1)
   - [Zwann and Radvansky (1998)](https://www.dropbox.com/scl/fi/iqp70crdmpd5m97zzv45c/ZwaaRadv98.pdf?rlkey=habx93aplwkkw829vj9vkv52a&dl=1)
+  - [Brunec et al. (2018)](https://www.dropbox.com/scl/fi/1eu28rpwyp8eg2sn4fgau/BrunEtal18b.pdf?rlkey=64dnn3onc90o59fuv33peil6g&dl=1)
 - **Assignemnt 3**: [Build the Context Maintenance and Retrieval Model](https://github.com/ContextLab/memory-models-course/tree/main/assignments/Assignment%203%3A%20Context%20Maintenance%20and%20Retrieval%20Model)
 
 # Week 6--7: Laplace Transforms
