@@ -49,9 +49,9 @@ This course follows an **experiential learning** model. Students will engage wit
 
 Classes will include:
 
-- **Lectures**: Foundational topics, discussions on understanding and implementing models, discussions about experiments and datasets.
-- **Hands-on Labs**: Experimenting with models, designing simple models, and conducting research using these models.
-- **Problem Sets and Projects**: Bi-weekly problem sets to apply what you've learned.  These will typically take the form of small-scale "research" projects.
+- **Discussions**: Discussions on foundational topics, understanding and implementing models, experiments, and datasets.  Class discussions will be recorded, transcribed, anonymized, summarized, and shared with the group.  (Note: if you want to bring something up in class that you do not want included in the summary, please let me know either in the moment so that I can pause the recording, or after class so that I can manually scrub it from the final summary.)
+- **Hands-on Labs**: Experimenting with data, designing simple models, and conducting research using these models.  All demos will run in Google Colaboratory notebooks.
+- **Problem Sets and Projects**: Bi-weekly problem sets to apply what you've learned.  These will typically take the form of small-scale "research" projects where you implement a computational memory model and analyze its behavior using real or synthetic data.
 
 ## Platforms and Tools
 - [**Google Colaboratory**](https://colab.research.google.com/): For developing and running Python code.  You may use other programming languages if you prefer, but all in-class coding will be done in Python using Colaboratory.
@@ -71,7 +71,15 @@ Students may work together on any of the assignments, unless otherwise noted in 
 
 Graduate Grading: If you are a graduate student enrolled in the course, you will very likely receive a "P" (Pass), assuming you come to (and participate in) class (with rare exceptions for emergencies or planned absences) and complete all of the assignments.  In rare cases, and at the discretion of the instructor, you will earn an "HP" (High Pass) if your work (or participation) goes substantially "above and beyond" what is expected.  Conversely, you will earn a "LP" (Low Pass) or "NC" (No Credit) if you do not come to most classes and/or do not complete all of the assignments.  My approach to graduate grading is that the onus is on **you** as the student to decide how much you want to get out of the course.  If you put in a lot of effort and work hard, you will learn more.  If you seek specific feedback, I will provide it.  However, it is certainly possible to pass this course as a graduate student with only a modest effort.
 
-Undergraduate Grading: If you are an undergraduate student enrolled in the course, my grading policy is to simply assign you a letter grade based on the numerical scores you receive on your assignments, weighted as described above.  The numbers in parentheses reflect percentages of the total number of possible points: A (93–100), A- (90–92), B+ (87–89), B (83–86), B- (80–82), C+ (77–79), C (73–76), C- (70–72), D (60–69), E (0–59).  All grades will be rounded to the nearest integer (e.g., a 92.5 average will result in a final grade of "A", whereas a 92.4999 average will result in a final grade of "A-").  Out of fairness to all students in the course, there will be no "negotiations" about grading-- e.g., your grade will be determined solely by your numerical score.
+Undergraduate Grading: If you are an undergraduate student enrolled in the course, my grading policy is to simply assign you a letter grade based on the numerical scores you receive on your assignments, weighted as described above.  The numbers in parentheses reflect percentages of the total number of possible points: A (93–100), A- (90–92), B+ (87–89), B (83–86), B- (80–82), C+ (77–79), C (73–76), C- (70–72), D (60–69), E (0–59).  All grades will be rounded to the nearest integer (e.g., a 92.5 average will result in a final grade of "A", whereas a 92.4999 average will result in a final grade of "A-").  Out of fairness to all students in the course, there will be no "negotiations" about grading-- e.g., your grade will be determined solely by your numerical score.  Grading on individual assignments will be assigned as follows (for undergraduate students only):
+
+  - A: well above and beyond what is expected for the assignment, all components done correctly, well-organized code, clear documentation and explanations, easy-to-read figures, and so on.
+  - B: default grade, denoting "solid" work-- demonstrates clear understanding of the material and meets all expectations for the assignment, with perhaps a few minor errors or other issues.
+  - C: mostly correct but with a few substantive conceptual or implementation errors.
+  - D: assignment contains major errors and/or missing components.
+  - E: either did not turn in the assignment, or did not complete any substantitive part of the assignment.
+
+Detailed feedback will not typically be provided on individual submissions, but you will have the opportunity to raise any issues or questions in class or during my office hours.
 
 ### Late Policy
 For graduate students, problem sets must be submitted prior to the end of the term.  To receive specific feedback on the assignment, you must submit it on time (otherwise I will simply mark it as "complete" or "incomplete").

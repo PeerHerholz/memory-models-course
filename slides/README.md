@@ -18,8 +18,8 @@
     - [Chen et al. (2016)](https://www.dropbox.com/scl/fi/wg6fledn7g88ig5mk3kob/ChenEtal16.pdf?rlkey=9jqu7y2apqv2hrj8qepn4alwa&dl=1)
     - [Heusser et al. (2021)](https://www.dropbox.com/scl/fi/w7z2yvdfzmhowh5hvg53e/HeusEtal21.pdf?rlkey=omad9klqeiu2kc71w7guc5xxq&dl=1)
   - Data science primer:
-    - Where to find behavioral datasets
-    - Web scraping
+    - Where to find behavioral datasets: [Penn Behavioral Data Archive](https://memory.psych.upenn.edu/Data_Archive), [OpenCogData](https://nimh-dsst.github.io/OpenCogData/), [OpenNeuro](https://openneuro.org/), [UCLA Psychological Dataset Archive](https://guides.library.ucla.edu/psychology/data), [Context Lab](https://www.context-lab.com/publications)
+    - Web scraping with [requests](https://pypi.org/project/requests/) and [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
     - Data manipulation with [Pandas](https://pandas.pydata.org/)
     - Text analyses with [Scikit-learn](https://scikit-learn.org), [NLTK](https://www.nltk.org/), and [HuggingFace Transformers](https://huggingface.co/docs/transformers/en/index)
   - **Assignment 2**: [Build the Search of Associative Memory Model](https://github.com/ContextLab/memory-models-course/tree/main/assignments/Assignment%202%3A%20Search%20of%20Associative%20Memory%20Model)
